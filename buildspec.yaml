@@ -2,7 +2,6 @@ version: 0.2
 
 env:
   variables:
-    variables:
     JAVA_HOME: "/usr/lib/jvm/java-1.8.0"
     PATH: "$JAVA_HOME/bin:$PATH"
   #parameter-store:
